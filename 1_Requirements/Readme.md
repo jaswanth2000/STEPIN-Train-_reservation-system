@@ -64,21 +64,22 @@ Disadvantages:
 Online train ticket reservation is most popularly used by people for travelling from one places to another place.
 
 ## What:
-# 
+
 1) Taking passenger details like name, age, gender.
 2) Knowing the source and destination.
 3) Scheduling the date and time of travel.
-
+#
 ## When:
-#
 
+#
 ## where:
-#
-The user can access this application at the comfort of their home/office.
 
-## How:
+The user can access this application at the comfort of their home/office.
 #
+## How:
+
 The user can access the console through laptops/computer and get details of trains, Scheduling date and time etc diet and workout charts at the comfort of their home/office.
+#
 # Detail requirements
 ## High Level Requirements:
 #
