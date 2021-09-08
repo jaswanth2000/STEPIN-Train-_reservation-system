@@ -53,8 +53,12 @@ Disadvantages:
 
 3) Development of new tourism
 
+4) Resource availability
+
+5) Applying unit testing
+
 ## Threats
-1) Indirect Competition from others.
+1) Indirect Competition from others by adding new functionalities.
 
 
 
@@ -70,7 +74,9 @@ Online train ticket reservation is most popularly used by people for travelling 
 3) Scheduling the date and time of travel.
 #
 ## When:
-ytytuiyupip0-9090ugy87t98
+
+1) During travel from one place to another place through train.
+2) During covid suitation helps to avoid que for ticket booking at the counters.
 #
 ## where:
 
@@ -85,15 +91,25 @@ The user can access the console through laptops/computer and get details of trai
 #
 | ID | Description| Status(Implemented/Future)|
 |:---|:---|:---|
-|HR.01|   | Implememted
-
+|HR.01| User should be able to login  | Implememted|
+|HR.02| User should be able to select passenger details  | Implememted|
+|HR.03| User should be able to reserve the seat  | Implememted|
+|HR.04| User should be able to choose the travel path  | Implememted|
+|HR.05 | Payment| Future|
 ## Low Level Requirements:
 #
-|ID | Description| Status(Implemented/Future)|
-|---|---|---|
-|LR.O1 |   | Implemented
-
-
-
-
-
+|ID | Description|HR_ID| Status(Implemented/Future)|
+|---|---|---|---|
+|LR.O1 | User name|HR.01| Implemented|
+|LR.O2 | User password |HR.01| Implemented|
+|LR.O3 | No of Passengers|HR.02| Implemented|
+|LR.O4 | Name of the passenger |HR.02| Implemented|
+|LR.O5 | Gender|HR.02| Implemented|
+|LR.O6 | Age|HR.02| Implemented|
+|LR.O7 | Ac coach|HR.03| Implemented|
+|LR.O8 | Sleeper|HR.03| Implemented|
+|LR.O9 | Source|HR.04| Implemented|
+|LR.O10 | Destination|HR.04| Implemented|
+|LR.O11 | UPI|HR.05| Future|
+|LR.O12 | Net Banking |HR.05| Future|
+|LR.O13 | Debit/Credit Card|HR.05 |Future|
